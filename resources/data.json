@@ -6,5 +6,93 @@
     "phone": "+447795001178",
     "website": "Curso.erickwender.com",
     "location": "São Paulo, SP"
+  },
+  {
+    "name": "Camila Oliveira",
+    "profession": "Python Developer",
+    "email": "camila@example.com",
+    "phone": "+5511987654321",
+    "website": "www.camiladev.com",
+    "location": "Rio de Janeiro, RJ"
+  },
+  {
+    "name": "Lucas Santos",
+    "profession": "Front-end Developer",
+    "email": "lucas@example.com",
+    "phone": "+5511123456789",
+    "website": "www.lucasdev.com",
+    "location": "Belo Horizonte, MG"
+  },
+  {
+    "name": "Fernanda Lima",
+    "profession": "Data Scientist",
+    "email": "fernanda@example.com",
+    "phone": "+5511765432109",
+    "website": "www.fernandadata.com",
+    "location": "Brasília, DF"
+  },
+  {
+    "name": "Ricardo Oliveira",
+    "profession": "Java Developer",
+    "email": "ricardo@example.com",
+    "phone": "+5511543210987",
+    "website": "www.ricardodev.com",
+    "location": "Porto Alegre, RS"
+  },
+  {
+    "name": "Juliana Silva",
+    "profession": "UX/UI Designer",
+    "email": "juliana@example.com",
+    "phone": "+5511324354671",
+    "website": "www.julianadesigns.com",
+    "location": "Curitiba, PR"
+  },
+  {
+    "name": "Pedro Rocha",
+    "profession": "Full-stack Developer",
+    "email": "pedro@example.com",
+    "phone": "+5511987654321",
+    "website": "www.pedrodev.com",
+    "location": "Salvador, BA"
+  },
+  {
+    "name": "Ana Souza",
+    "profession": "Cybersecurity Analyst",
+    "email": "ana@example.com",
+    "phone": "+5511123456789",
+    "website": "www.anacyber.com",
+    "location": "Fortaleza, CE"
+  },
+  {
+    "name": "Miguel Costa",
+    "profession": "Mobile App Developer",
+    "email": "miguel@example.com",
+    "phone": "+5511543210987",
+    "website": "www.miguelapps.com",
+    "location": "Manaus, AM"
+  },
+  {
+    "name": "Isabel Oliveira",
+    "profession": "AI Researcher",
+    "email": "isabel@example.com",
+    "phone": "+5511324354671",
+    "website": "www.isabelai.com",
+    "location": "Recife, PE"
+  },
+  {
+    "name": "Gabriel Lima",
+    "profession": "DevOps Engineer",
+    "email": "gabriel@example.com",
+    "phone": "+5511987654321",
+    "website": "www.gabrieldevops.com",
+    "location": "São Luís, MA"
+  },
+  {
+    "name": "Carolina Santos",
+    "profession": "Machine Learning Engineer",
+    "email": "carolina@example.com",
+    "phone": "+5511543210987",
+    "website": "www.carolinaml.com",
+    "location": "Natal, RN"
   }
 ]
