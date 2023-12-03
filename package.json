@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "go": "rmdir /s /q file && mkdir file && node src/index.js",
+    "go": "rmdir /s /q output && mkdir output && node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
